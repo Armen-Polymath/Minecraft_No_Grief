@@ -1,0 +1,5 @@
+name: polymath_no_grief
+version: '1.0-alpha'
+main: NoGrief
+api-version: '1.21'
+authors: [ Armen Hovhannisyan ]
