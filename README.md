@@ -57,7 +57,7 @@ No NMS used → future patch versions are very likely compatible.
 You should see:
 
 ```
-[NoGrief] NoCreeperGrief enabled.
+[NoGrief] NoGrief enabled.
 ```
 
 ---
